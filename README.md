@@ -41,5 +41,7 @@ That's it! Visual Studio Code will regenerate the JavaScript file every time you
 
 # Development:
 
+In Visual Studio Code:
+
 1. Hit Ctrl-Shift-B in Windows orCommand-Shift-B` for Mac.
 2. Select `watch-tsconfig.json`
